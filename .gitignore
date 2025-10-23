@@ -207,4 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 Lectures/4th week/data/*.csv
-*/data/*.csv
+Lectures/midterm/data/*.csv
